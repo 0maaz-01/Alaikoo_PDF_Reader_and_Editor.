@@ -1,11 +1,8 @@
 
 # Alaikoo: The PDF Reader and Editor
 
-
-The PDF Manager is a versatile desktop application designed to be an all-in-one
-solution for managing, editing, and interacting with PDF files. Its intuitive interface
-and powerful functionality make it an essential tool for students, professionals,
-and anyone who frequently works with digital documents.
+In today's digital world, PDF files have become a standard format for sharing, storing, and editing documents. However, managing PDFs effectively can be a challenge without the right tools. Alaikoo Text Editor is a powerful and versatile desktop application designed to simplify PDF management with an intuitive interface and advanced features. Whether you're a student, professional, or business owner, Alaikoo provides everything you need to edit, convert, merge, compress, and secure your PDF documents—all in one place.
+Let’s explore the key features that make Alaikoo an essential tool for PDF management.
 
 1) 𝐄𝐝𝐢𝐭 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
 Add, Delete or Rearrange pages in the PDF documents.
@@ -195,6 +192,7 @@ You need to install some libraries using the command terminal so that the code r
 
 This single function will install all the libraries required for the project
 
+To make this application run on your system you need to download the contents of
 
 ---
 
