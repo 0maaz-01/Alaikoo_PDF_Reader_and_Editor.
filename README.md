@@ -2,7 +2,7 @@
 # Alaikoo: The PDF Reader and Editor
 
 In today's digital world, PDF files have become a standard format for sharing, storing, and editing documents. However, managing PDFs effectively can be a challenge without the right tools. Alaikoo Text Editor is a powerful and versatile desktop application designed to simplify PDF management with an intuitive interface and advanced features. Whether you're a student, professional, or business owner, Alaikoo provides everything you need to edit, convert, merge, compress, and secure your PDF documents—all in one place.
-Let’s explore the key features that make Alaikoo an essential tool for PDF management.
+
 
 1) 𝐄𝐝𝐢𝐭 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
 Add, Delete or Rearrange pages in the PDF documents.
@@ -195,6 +195,30 @@ This single function will install all the libraries required for the project
 To make this application run on your system you need to download the contents of
 
 ---
+
+## License :
+
+MIT License
+
+Copyright (c) 2025 Mohammed Maaz Rayeen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 ## Support
