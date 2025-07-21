@@ -167,14 +167,6 @@ The process for modifying password in PDF is the same as for locking it. The onl
 
 ---
 
-## Author - Mohd Maaz 
-  <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/F.jpg" width="200" height="200"> 
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-maaz-rayeen-b914a4303) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/_maaz_1/)
-
-
----
-
 ## Tech Stack
 
 **Language:** Python
